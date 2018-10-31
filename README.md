@@ -2,7 +2,7 @@ WrBord for Mac - A small but powerful writing board application.
 
 Copyright (C) 2018 Alan Ye. All rights reserved. 
 
-----------DOWNLOADS----------
+----------Downloads----------
 
 WrBord 2.0 for Mac
 
