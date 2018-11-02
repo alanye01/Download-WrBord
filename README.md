@@ -6,27 +6,27 @@ Please Update your WrBord application at this Page.
 
 ----------Downloads----------
 
-WrBord 3.0 for Mac
+WrBord 3.0 for Mac (Build 31)
 
 11/2/2018
 
 Download: https://raw.githubusercontent.com/alanye01/Download-WrBord/master/Install%20WrBord%203.0.dmg
 
----Update---
+---Updates---
 
 1. Fixed Bugs
 
-WrBord 2.0 for Mac
+WrBord 2.0 for Mac (Build 2)
 
 10/30/2018
 
 Download: https://raw.githubusercontent.com/alanye01/Download-WrBord/master/Install%20WrBord%202.0.dmg
 
----Update---
+---Updates---
 
 1. Fixed Bugs
 
-WrBord 1.0 for Mac
+WrBord 1.0 for Mac (Build 1)
 
 10/30/2018
 
