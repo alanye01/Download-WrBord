@@ -16,7 +16,7 @@ Download: https://raw.githubusercontent.com/alanye01/Download-WrBord/master/Inst
 
 1. Fixed Bugs
 
-WrBord 2.0 for Mac (Build 2)
+WrBord 2.0 for Mac (Build 20)
 
 10/30/2018
 
@@ -26,7 +26,7 @@ Download: https://raw.githubusercontent.com/alanye01/Download-WrBord/master/Inst
 
 1. Fixed Bugs
 
-WrBord 1.0 for Mac (Build 1)
+WrBord 1.0 for Mac (Build 10)
 
 10/30/2018
 
