@@ -4,6 +4,10 @@ Copyright (C) 2018 Alan Ye. All rights reserved.
 
 Please Update your WrBord application at this Page. 
 
+----------Unreleased Version----------
+
+WrBord 3.1 will release at 11/15/2018
+
 ----------Downloads----------
 
 WrBord 3.0 for Mac (Build 31)
