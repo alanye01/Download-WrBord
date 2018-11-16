@@ -6,7 +6,7 @@ Please Update your WrBord application at this Page.
 
 ----------Unreleased Version----------
 
-WrBord 3.1 will release at 11/15/2018
+WrBord 4.0 will release at 11/25/2018
 
 ----------Downloads----------
 
@@ -15,6 +15,11 @@ WrBord 3.1 for Mac (Build 3112)
 11/16/2018
 
 Download: https://raw.githubusercontent.com/alanye01/Download-WrBord/master/Install%20WrBord%203.1.dmg
+
+---Updates---
+
+1. The New Dark UI
+2. The New "What's New" Window. 
 
 WrBord 3.0 for Mac (Build 30)
 
