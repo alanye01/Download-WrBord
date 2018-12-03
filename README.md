@@ -1,4 +1,6 @@
-WrBord - A small but powerful writing board application. 
+# WrBord - A small but powerful writing board application. 
+
+# You can also Download the Source and the Installer at https://github.com/AlanYe-Dev/source-wrbord/ and https://github.com/AlanYe-Dev/download-wrbord/. 
 
 Copyright (C) 2018 Alan Ye. All rights reserved. 
 
